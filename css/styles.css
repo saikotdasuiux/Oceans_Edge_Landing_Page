@@ -167,6 +167,7 @@ body{
 	padding: 0 0 0 80px;
 }
 .f_1topheading h2{
+	display: inline-block;
 	font-family: sans-serif;
 	font-size: 25px;
 	color: white;
@@ -175,6 +176,7 @@ body{
 	margin: 0;
 }
 .f_1topheading h3{
+	display: inline-block;
 	font-family: sans-serif;
 	font-size: 25px;
 	color: #0079BD;
@@ -184,6 +186,7 @@ body{
 }
 .f_1bottom{}
 .f_1bottom p{
+	display: inline-block;
 	font-family: sans-serif;
 	font-size: 16px;
 	color: white;
@@ -213,6 +216,7 @@ body{
 	padding: 0 0 0 80px;
 }
 .f_2topheading h2{
+	display: inline-block;
 	font-family: sans-serif;
 	font-size: 25px;
 	color: white;
@@ -221,6 +225,7 @@ body{
 	margin: 0;
 }
 .f_2topheading h3{
+	display: inline-block;
 	font-family: sans-serif;
 	font-size: 25px;
 	color: #0079BD;
@@ -230,6 +235,7 @@ body{
 }
 .f_2bottom{}
 .f_2bottom p{
+	display: inline-block;
 	font-family: sans-serif;
 	font-size: 16px;
 	color: white;
